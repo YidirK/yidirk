@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, my name is Yidir:</h1>
 
 # 💫 About Me:
-🛸 space<br>💻 programming <br>🔭 Astrophysics<br>🌱 Founder @HergoTech<br>💬 young, ambitious and passionate XD .no big project yet, but it won't be long.<br>⚡ We build the future you deserve. 🪐
+🛸 space<br>💻 programming <br>🔭 Astrophysics<br>🌱 Founder of @Hergol<br>💬 young, ambitious and passionate XD .no big project yet, but it won't be long.<br>⚡ We build the future you deserve. 🪐
 
 
 ## 🌐 Socials:
