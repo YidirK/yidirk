@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, my name is Yidir:</h1>
+
 # 💫 About Me:
 🛸 space<br>💻 programming <br>🔭 Astrophysics<br>🌱 Founder @HergoTech<br>💬 young, ambitious and passionate XD .no big project yet, but it won't be long.<br>⚡ We build the future you deserve. 🪐
 
@@ -19,14 +20,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=KahloucheYidir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=yidirk&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yidirk) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yidirkahlouche) 
